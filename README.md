@@ -1,6 +1,6 @@
 # VIA — Migration Made Simple
 
-A static educational MVP for a Mexico-centered migration assistance product. Built with **HTML, CSS and vanilla JavaScript**. No build tooling, database, API key, sign-in or backend required.
+A Mexico-centered migration roadmap tool. Built with **HTML, CSS and vanilla JavaScript**, with no build step.
 
 ## Preview locally
 Open `index.html` in your web browser.
@@ -14,10 +14,10 @@ Open `index.html` in your web browser.
 
 ## What works
 - Choosing whether to leave Mexico or move to Mexico
-- Three outbound demo destinations (Canada, Spain, USA) and three inbound origin examples (Colombia, France, USA)
+- Three outbound destinations (Canada, Spain, USA) and three inbound origins (Colombia, France, USA)
 - Study/work purpose, estimated stay duration
-- Illustrative generated roadmap, official links, progress checkboxes and copy-to-clipboard
+- Generated roadmap, official links, progress checkboxes and copy-to-clipboard
 - Responsive mobile layout
 
-## Deliberate limitations
-This is a prototype, not a live eligibility engine. The routes are general educational templates, not verified personalized legal requirements; check the linked authorities. The app stores no passport data, has no login and does not send applications. Some institutions require additional or different steps. Do not submit private information.
+## Limitations
+The routes are general templates, not verified personalized legal requirements, and VIA is not an eligibility engine. Check the linked authorities, because institutions may require additional or different steps. VIA does not submit applications.
