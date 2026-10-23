@@ -14,9 +14,11 @@ Open `index.html` in your web browser.
 
 ## What works
 - Choosing whether to leave Mexico or move to Mexico
-- Three outbound destinations (Canada, Spain, USA) and three inbound origins (Colombia, France, USA)
+- Six outbound destinations (Canada, Spain, USA, Germany, UK, Australia) and five inbound origins (Colombia, Argentina, USA, Canada, France)
 - Study/work purpose, estimated stay duration
-- Generated roadmap, official links, progress checkboxes and copy-to-clipboard
+- Generated roadmap with official links, progress checkboxes and copy-to-clipboard
+- Progress is saved in your browser, so a reload restores your roadmap and checked steps
+- Moving to Mexico: the application step links to the Mexican embassy in the chosen origin country
 - Responsive mobile layout
 
 ## Limitations
